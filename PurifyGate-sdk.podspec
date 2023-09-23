@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'PurifyGate-sdk'
-  s.version          = '1.0.1'
+  s.version          = '1.1.1'
   s.summary          = 'My test PurifyGate-sdk.'
 
   s.description      = <<-DESC
