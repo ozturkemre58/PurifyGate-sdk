@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PurifyGate-sdk_Tests' do
+  pod 'PurifyGate-sdk', :path => '../'
+  
+  
+end
